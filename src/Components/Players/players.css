@@ -1,0 +1,27 @@
+.players{
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 13px;
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    background-color: #5363b3;
+}
+.players img{
+    border-radius: 50%;
+}
+.players button{
+    width: 140px;
+    height: 50px;
+    background-color: white;
+    color: #5363b3;
+    border: 1px solid gray;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.players button i{
+    color: blue;
+    font-size: 20px;
+}
